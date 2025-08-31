@@ -1,5 +1,4 @@
 # real-time-weapon-detection
-
 ## Overview
 This project uses OpenCV’s Haar cascade classifier to detect weapons (guns) in a live webcam feed. Frames are captured from the default camera, converted to grayscale, and passed through a pre-trained cascade. When a detection occurs, a bounding box is drawn and an on-screen warning is displayed.
 
@@ -17,5 +16,6 @@ This project uses OpenCV’s Haar cascade classifier to detect weapons (guns) in
 
 ## Author
 **Arnav Venkatesh**
+
 
 
